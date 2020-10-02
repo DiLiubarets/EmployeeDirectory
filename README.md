@@ -1,5 +1,5 @@
 # React Employee Directory
-[Live DEMO ](https://diliubarets.github.io/EmployeeDirectory/)
+[Live DEMO ](https://diliubarets.github.io/EmployeeDirectory)
 
 ## Overview
 
